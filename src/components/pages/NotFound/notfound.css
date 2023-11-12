@@ -1,0 +1,11 @@
+.notfound-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 80vh;
+    background-image: url('../../../assets/image/404.png');
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
