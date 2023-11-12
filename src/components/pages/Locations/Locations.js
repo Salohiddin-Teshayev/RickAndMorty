@@ -84,7 +84,7 @@ const Locations = () => {
                                         </li>   
                                     </Link>
                                 );   
-                            }) : <img src={empty} width={400} height={400} className='object-contain' alt='not found' />
+                            }) : <img src={empty} width={300} height={300} className='object-contain' alt='not found' />
 
                         }
                                  

@@ -20,7 +20,6 @@ export function SingleItem() {
         })();
     }, [api]);
 
-    console.log(data);
     return (
        JSON.stringify(data) !== '{}'
        ? <div className='container w-8/12 flex flex-col items-center mx-auto p-6'>
