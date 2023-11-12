@@ -1,4 +1,1 @@
-# This is Test
-
-Morthy API
-
+Rick and Morty API
